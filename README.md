@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![James's github stats](https://github-readme-stats.vercel.app/api?username=JENkt4k&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **JENkt4k/JENkt4k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
