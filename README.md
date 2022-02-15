@@ -1,6 +1,6 @@
 ### Welcome to the Github of the Arcane Technomancer!
 
-## Still playing around... what are your plans for 2/22/2022?
+#### Still playing around... what are your plans for 2/22/2022?
 
 **About me**
 
