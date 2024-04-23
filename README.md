@@ -1,7 +1,5 @@
 ### Welcome to the Github of the Arcane Technomancer!
 
-#### Still playing around... what are your plans for 2/22/2022?
-
 **About me**
 
 - 💼 I'm designing and building the next gereration of homes that come with thier own factories and acres of airable land.
